@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+Hi!
+My name is John William and I love systems development mainly using Java
